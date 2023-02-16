@@ -1,4 +1,4 @@
-module github.com/RatioPBC/sftp/gcs_get_secret
+module github.com/RatioPBC/gcs_get_secret
 
 go 1.19
 
